@@ -1,0 +1,7 @@
+Tweets_processed,Polarity,Subjectivity,Sentiment,Entity
+washroom gate soap fail,-0.4,0.6,Negative,Hygiene Related
+smooth checkin experience staff counter helpful,0.5,0.7,Positive,Check-ins
+parking expensive considering option next time,-0.2,0.4,Negative,Parking Related
+lounge clean quiet good place wait delayed flight,0.45,0.55,Positive,Lounge
+security line moved fast morning min,0.3,0.5,Positive,Security
+lost luggage tag staff helped locate quickly thank,0.35,0.45,Positive,Luggage
